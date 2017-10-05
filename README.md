@@ -1,23 +1,23 @@
 ## Project Name:  Expense Calculator Application
+Expense calculator application 
 
 ### Course Title:
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 5, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ben Buchalter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I updated and downloaded new codes to enable the expense calcuator's operation and success. this assignment reiterated how to commit and push different git files as well.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/Benb2896/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to edit HTML with javascript.)
+2. (performing calculations with javascipt.)
+3. (initializing variables in javascript .)
 
